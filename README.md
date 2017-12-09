@@ -2,5 +2,4 @@
 #Used Tools
 
 IDE: Pycharm
-Python 3
-Anaconda 3
+Verision: Python 3, Anaconda 3
